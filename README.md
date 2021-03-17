@@ -3,8 +3,8 @@
  Made with a python module called turtle
 Used for drawing and animating in python
 
-Use standard UP and DOWN controls for left paddle
-Use standard A and Z controls for right paddle
+Use standard UP and DOWN controls for RIGHT paddle
+Use standard A and Z controls for LEFT paddle
  on keyboard
 
 Screen height and width is 800h and 600w, adjust to fit 
